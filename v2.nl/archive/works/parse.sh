@@ -1,0 +1,1 @@
+/home/maxigas/sci/v2_/scrape/parse.sh

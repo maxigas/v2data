@@ -1,0 +1,554 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/" xmlns="http://purl.org/rss/1.0/">
+
+
+
+
+    
+
+
+
+<channel rdf:about="https://v2.nl/archive/works/aggregator/RSS">
+  <title>Works</title>
+  <link>https://v2.nl</link>
+
+  <description>
+    
+      
+    
+  </description>
+
+  
+
+  
+            <syn:updatePeriod>daily</syn:updatePeriod>
+            <syn:updateFrequency>1</syn:updateFrequency>
+            <syn:updateBase>2009-05-11T13:09:41Z</syn:updateBase>
+        
+
+  <image rdf:resource="https://v2.nl/logo.png"/>
+
+  <items>
+    <rdf:Seq>
+      
+        <rdf:li rdf:resource="https://v2.nl/archive/works/2b-sorry-we-missed-you"/>
+      
+      
+        <rdf:li rdf:resource="https://v2.nl/archive/works/food-forest-fantasies"/>
+      
+      
+        <rdf:li rdf:resource="https://v2.nl/archive/works/immortal-game"/>
+      
+      
+        <rdf:li rdf:resource="https://v2.nl/archive/works/capturing-unstable-media"/>
+      
+      
+        <rdf:li rdf:resource="https://v2.nl/archive/works/brug"/>
+      
+      
+        <rdf:li rdf:resource="https://v2.nl/archive/works/of-all-places-the-best-nights-were-found-in-the-garden-of-old-ladies"/>
+      
+      
+        <rdf:li rdf:resource="https://v2.nl/archive/works/does-the-sun-shine-in-argentina"/>
+      
+      
+        <rdf:li rdf:resource="https://v2.nl/archive/works/residual-light-beneath-the-floating-land"/>
+      
+      
+        <rdf:li rdf:resource="https://v2.nl/archive/works/rixt-van-t-oerd"/>
+      
+      
+        <rdf:li rdf:resource="https://v2.nl/archive/works/slices-of-dust"/>
+      
+      
+        <rdf:li rdf:resource="https://v2.nl/archive/works/garden-title-pending"/>
+      
+      
+        <rdf:li rdf:resource="https://v2.nl/archive/works/on-a-small-island-in-a-big-island"/>
+      
+      
+        <rdf:li rdf:resource="https://v2.nl/archive/works/three-works"/>
+      
+      
+        <rdf:li rdf:resource="https://v2.nl/archive/works/untitled-single-channel-video"/>
+      
+      
+        <rdf:li rdf:resource="https://v2.nl/archive/works/mountains-title-pending"/>
+      
+    </rdf:Seq>
+  </items>
+
+</channel>
+
+
+  <item rdf:about="https://v2.nl/archive/works/2b-sorry-we-missed-you">
+    <title>A2B: SORRY WE MISSED YOU</title>
+    <link>https://v2.nl/archive/works/2b-sorry-we-missed-you</link>
+    <description>A2B: SORRY WE MISSED YOU (2022) is a work by Joan Heemskerk.</description>
+    <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/"><![CDATA[
+<p>AUQUAY visualises globalisation, from the digital coastline between land and water, through the signals that people and ships pass on to the global positioning system of the Internet. AUQUAY refers to okay, okay: - All right, ready. In French: 'Au quay', referring to the cargo brought ashore. See <a class="external-link" href="http://auquay.com">auquay.com</a><br /><br />A DIY computer with a software-defined radio antenna locally scans AIS &amp; GPS signals from the ether to create a new visualisation of these measured radio waves. This raw-data noise is converted via software into understandable code for geo-visualisation. It is a method to monitor the transport of ships in the range of this local AIS/GPS receiver.<br /><br />The A2B recordings are not made on the water but on a stationary position on land as 24h time-lapse ship landscapes. Does this create a new virtual border between land and water? A new map is created, an interpretation of the local area, an abstract form of a landscape interpretation.</p>
+<p>Website: <a class="external-link" href="https://auquay.com/a2b">https://auquay.com/a2b</a></p>
+<h3>Dutch text<br /></h3>
+AUQUAY visualiseert vanuit de digitale kustlijn tussen land en water, de globalisering door de signalen die mensen en scheepvaart doorgegeven op het wereldwijde positionering systeem van het internet. AUQUAY refereert naar oké, okay: - All right, ready. In het Frans:&nbsp; 'Au quay', refererend aan de vracht die aan land is gebracht: zie <a class="external-link" href="http://auquay.com">auquay.com</a>
+<p><br />Een DIY computer met een software-defined radio antenne scant lokaal AIS &amp; GPS signalen uit de ether om een nieuwe visualisatie van deze gemeten radiogolven te realiseren. Deze raw-data noise wordt via software omgezet in een begrijpbare code voor de geo-visualisatie. Het is een methode om het vervoer door schepen te monitoren in het bereik van deze lokale AIS/GPS ontvanger.</p>
+<p>De A2B opnames worden niet op het water maar op een stationaire positie op het land gemaakt als 24h time-lapse scheepslandschappen. Word hierdoor een nieuwe virtuele grens tussen land en water getekend? Er ontstaat als het ware een nieuwe kaart, een interpretatie van het lokale gebied, een abstracte vorm van een landschap interpretatie.</p>
+<p>Website: <a class="external-link" href="https://auquay.com/a2b">https://auquay.com/a2b</a></p>
+]]></content:encoded>
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Arie Altena</dc:creator>
+    <dc:rights>This information is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply.</dc:rights>
+    
+      <dc:subject>2022</dc:subject>
+    
+    
+      <dc:subject>cartography</dc:subject>
+    
+    
+      <dc:subject>sea</dc:subject>
+    
+    
+      <dc:subject>ships</dc:subject>
+    
+    
+      <dc:subject>water</dc:subject>
+    
+    <dc:date>2022-08-26T10:35:00Z</dc:date>
+    <dc:type>Work</dc:type>
+  </item>
+
+
+  <item rdf:about="https://v2.nl/archive/works/food-forest-fantasies">
+    <title>Food Forest Fantasies</title>
+    <link>https://v2.nl/archive/works/food-forest-fantasies</link>
+    <description>Food Forest Fantasies (2022) by the Center of Genomic Gastronomy is a suite of tools, rituals and recipes for testing and tasting food systems that can withstand water stress and survive the climate emergency. </description>
+    <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/"><![CDATA[
+<p style="text-align: start;"><strong><em>Slow food, slower food, slowest food.&nbsp;</em></strong></p>
+<p style="text-align: start;">Food Forestry is a system of agriculture that is resilient to ecological shocks including floods, droughts and fires. The Center for Genomic Gastronomy is planning a food forest, but it will take up to a decade until a complete meal can be harvested from there. There is a mismatch between the speed needed to address the climate emergency, and the patience needed to cultivate adaptive agroecosystems like food forests.&nbsp;</p>
+<p style="text-align: start;"><strong><em>Menu at the end of a World.</em></strong></p>
+<p style="text-align: start;">We are planting combinations of slow-growing ingredients and preparing menus for future generations to taste. We hope that our experimental forest farm can survive the uncertain but extreme hydrological, agricultural and climatic conditions of the coming decades.&nbsp;</p>
+<p style="text-align: start;">No one knows how high the water will rise or how long the droughts will last but it seems certain that the culinary world we inhabit today is coming to an end. <em>Food Forest Fantasies</em> is a form of edible eschatology: eating at the end of a world while preparing for an other.</p>
+<p class="discreet">This project has received funding from S+T+ARTS (Science, Technology 
+&amp; the Arts), an initiative of the European Commission, launched 
+under the Horizon 2020 research and innovation program.</p>
+<p>&nbsp;</p>
+<p><img class="image-inline image-inline" src="../../../files/logos/startsresidencieslogo2048x839.png/image_preview" alt="starts-residency" /></p>
+<p><img class="image-inline" src="../../../files/logos/Logo_STARTSEUHORIZON.jpg/image_preview" alt="starts-eu" /></p>
+<p class="discreet">STARTS (Science, Technology &amp; the Arts) is an initiative of the 
+European Commission, launched under the Horizon 2020 research and 
+innovation program. Its purpose is to support collaborations between 
+artists, scientists, engineers and researchers to develop more creative,
+ inclusive, and sustainable technologies.</p>
+]]></content:encoded>
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Arie Altena</dc:creator>
+    <dc:rights>This information is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply.</dc:rights>
+    
+      <dc:subject>2022</dc:subject>
+    
+    
+      <dc:subject>food</dc:subject>
+    
+    
+      <dc:subject>food forest</dc:subject>
+    
+    
+      <dc:subject>forest</dc:subject>
+    
+    
+      <dc:subject>water</dc:subject>
+    
+    <dc:date>2022-08-23T08:55:00Z</dc:date>
+    <dc:type>Work</dc:type>
+  </item>
+
+
+  <item rdf:about="https://v2.nl/archive/works/immortal-game">
+    <title>Immortal Game</title>
+    <link>https://v2.nl/archive/works/immortal-game</link>
+    <description>Immortal Game is a Virtual Reality (VR) and live performance piece created and performed by Yiannis Logothetis and Evangelos Biskas</description>
+    <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/"><![CDATA[
+<p>Immortal Game is an interdisciplinary project in the intersection of Virtual Reality (VR) and live performance. Creators and performers Yiannis Logothetis and Evangelos Biskas together with VR company Improvive search for the ingredients to dream up an immersive experience that encourages intimacy and freedom of expression.<br /><br />The two childhood friends use the VR medium as a playground that holds space for the audience members to interact with each other in an anonymous way which allows for feelings such as shame, fear, joy to be felt and released in a communal virtual dance in an attempt to dissolve social constructs such us individualism and gender. The creators and performers involved guide the audience through a transition from the virtual to the non-virtual space and on through unexpected passages and rooms of the theatre in an ongoing game of transparency, vulnerability, freedom of movement, and trust.<br /><br />This performance is a process of restoring justice in the body, embracing not only the light in us but also, our dark side, our shadows, our guilted and forgotten parts of us in an effort to actionably and unbiasedly stand in solidarity with each other.<br /><br />“a series of unfoldments to express oneself at its highest potential knowing who one is in what one is. the themes of the two major aspects about preservation and creation. with preservation to learn to live not to die but to live to live. Yes Hope the ingredient in the mix. We are so blessed in our wonderment here on Earth with all of the creations that show us daily how to unfold and become in life. the seed into the root upward heliotropic to the Sun, the branches and the leaves and it’s ultimately the fruit. the ultimate within each of us being the essence, the atman the soul and ultimately unifying through our polished lens of buddhi.. a timing process of employment through a series of awakenings turn on one’s potential power of unity.<br /><br />life is the spark of the breath that ignites the heart in love.”</p>
+]]></content:encoded>
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Arie Altena</dc:creator>
+    <dc:rights>This information is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply.</dc:rights>
+    
+      <dc:subject>2022</dc:subject>
+    
+    
+      <dc:subject>VR</dc:subject>
+    
+    
+      <dc:subject>performance</dc:subject>
+    
+    <dc:date>2022-09-21T15:52:36Z</dc:date>
+    <dc:type>Work</dc:type>
+  </item>
+
+
+  <item rdf:about="https://v2.nl/archive/works/capturing-unstable-media">
+    <title>Capturing Unstable Media</title>
+    <link>https://v2.nl/archive/works/capturing-unstable-media</link>
+    <description>Capturing Unstable Media was a research project conducted by V2_ in 2003 on archiving and preserving unstable media.</description>
+    <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/"><![CDATA[
+<p>From March to December 2003, the archive team of V2_ has conducted research on the documentation aspects of the preservation of electronic art activities -- or <em>Capturing Unstable Media</em> --, an approach between archiving and preservation.<br /><br />For this purpose, two major case studies were investigated in depth -- both are projects that were co-developed at V2_Lab, the interdisciplinary workspace of V2_Organisation. The case studies were whisper by Thecla Schiphorst and Susan Kozel, a project related to wearable technologies, performance and the body; and DataCloud 2.0 and previous and later DataClouds, projects that involve web-based 2D or 3D visualizations of complex information structures.<br /><br />Based on the findings from these case studies, a series of recommendations were formulated in the following areas: documentation strategies for electronic art activities, formal modeling and metadata and archival interoperability.<br /><br />Furthermore, a number of technical realizations were implemented, including a public, web-based portal for V2_Archive and a new technical framework for the archive, based on XML and RDF technologies.<br /><br />The research trajectory of <em>Capturing Unstable Media</em> was followed up by an advisory board with researchers, information science and preservation specialists from the following Dutch organizations: Maastricht McLuhan Institute, Netherlands Media Art Institute, de Balie, Filmmuseum, Netherlands Institute for Sound and Vision and National Library of the Netherlands.</p>
+<p><a class="external-link" href="http://capturing.projects.v2.nl/">Website Capturing Unstable Media</a> (2003)</p>
+]]></content:encoded>
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>admin</dc:creator>
+    <dc:rights>This information is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply.</dc:rights>
+    
+      <dc:subject>2002</dc:subject>
+    
+    
+      <dc:subject>2003</dc:subject>
+    
+    
+      <dc:subject>Content Management</dc:subject>
+    
+    
+      <dc:subject>Unstable Media</dc:subject>
+    
+    
+      <dc:subject>media art</dc:subject>
+    
+    
+      <dc:subject>preservation</dc:subject>
+    
+    
+      <dc:subject>project</dc:subject>
+    
+    
+      <dc:subject>research_project</dc:subject>
+    
+    
+      <dc:subject>sponsor</dc:subject>
+    
+    
+      <dc:subject>v2_lab</dc:subject>
+    
+    <dc:date>2011-06-10T11:30:00Z</dc:date>
+    <dc:type>Work</dc:type>
+  </item>
+
+
+  <item rdf:about="https://v2.nl/archive/works/brug">
+    <title>Brug</title>
+    <link>https://v2.nl/archive/works/brug</link>
+    <description>Brug is a multimedia performance by De Transmissie, about the personality of Rotterdam.</description>
+    <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/"><![CDATA[
+<p><em>Brug</em> is a multimedia performance about the personality of Rotterdam. Urban planning, music and live animation come together in this performance by artist duo De Transmissie.<br /><br />Two urban planners (Schwarz and Stenvers) take you through the history and future of Rotterdam. How is a city built? For developing Brug, De Transmissie spoke with well-known and lesser-known Rotterdam 'bridge builders' and city planners. Their voices (including Riek Bakker, Sanne van Manen and Tom van Geest) and stories take you as a visitor through the journey of Rotterdam as a transforming city. This city is always changing, but for whom? And how many towers still fit?</p>
+]]></content:encoded>
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Arie Altena</dc:creator>
+    <dc:rights>This information is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply.</dc:rights>
+    
+      <dc:subject>2022</dc:subject>
+    
+    
+      <dc:subject>multimedia</dc:subject>
+    
+    
+      <dc:subject>performance</dc:subject>
+    
+    <dc:date>2022-09-21T13:07:06Z</dc:date>
+    <dc:type>Work</dc:type>
+  </item>
+
+
+  <item rdf:about="https://v2.nl/archive/works/of-all-places-the-best-nights-were-found-in-the-garden-of-old-ladies">
+    <title>Of all places, the best nights were found in the garden of old ladies</title>
+    <link>https://v2.nl/archive/works/of-all-places-the-best-nights-were-found-in-the-garden-of-old-ladies</link>
+    <description>"Of all places, the best nights were found in the garden of old ladies" is an installation by Adèle Grégoire.</description>
+    <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/"><![CDATA[
+<p><em>Of all places, the best nights were found in the garden of old ladies</em> is a story where many encounters occur. This time, a community of nomadic ensenia foetidia worms, also called red worms, stumble upon a couple of old ladies and a drawing. Adèle Grégoire expose you to the moments they shared together through an audiovisual installation made of drawings, sound-surrounded by found, reclaimed, recycled, or composted material.<br /><br /><br /></p>
+<iframe src="https://player.vimeo.com/video/747596730?h=e91fbd195c" frameborder="0" height="360" width="640" title="vimeo-player"></iframe>]]></content:encoded>
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Arie Altena</dc:creator>
+    <dc:rights>This information is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply.</dc:rights>
+    
+      <dc:subject>2022</dc:subject>
+    
+    
+      <dc:subject>installation</dc:subject>
+    
+    
+      <dc:subject>nuclear energy</dc:subject>
+    
+    
+      <dc:subject>worms</dc:subject>
+    
+    <dc:date>2022-06-09T10:00:00Z</dc:date>
+    <dc:type>Work</dc:type>
+  </item>
+
+
+  <item rdf:about="https://v2.nl/archive/works/does-the-sun-shine-in-argentina">
+    <title>Does the Sun Shine in Argentina?</title>
+    <link>https://v2.nl/archive/works/does-the-sun-shine-in-argentina</link>
+    <description>Does the Sun Shine in Argentina? (2022) is CGI musical biopic by Ariela Bergman.</description>
+    <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/"><![CDATA[
+<p><em>Does the Sun Shine in Argentina?</em> Is a CGI musical biopic based on the eighty-one letters my aunt penned to my mother and grandmother from abroad over a thirty-year period.&nbsp; After my aunt's death, my mother told me she had a box containing her sister’s correspondences that she sent after she emigrated. That is how I got access to the letters that told the tale of her life. As a teenager she fled her homeland without her mother’s consent, claiming to never have been understood by her own family. After an adventurous early life, she settled in France. But she never stopped writing and caring about her homeland. There is a tension bubbling within her writing. It becomes evident that despite her best efforts, she never felt acknowledged as the free, independent woman she believed herself to be. Does the Sun Shine in Argentina? creates a place for Cristina’s histrionic voice. I am using CGI to convey the bombastic, world Cristina fabricated for herself. I am creating surrealist spaces inspired by elements found in the letters. The audience will undergo a subjective trip through her mental realm, experiencing a speculative version of Cristina’s own dreams and nightmares.</p>
+<p>The journey begins in the late 1960s, with an enthusiastic eighteen-year-old Cristina and follows her to the early 90s with a disappointed middle-aged divorcee planning her possible repatriation to Argentina.&nbsp;</p>
+<p>&nbsp;</p>
+<iframe src="https://player.vimeo.com/video/747598028?h=b90fdc5c21" frameborder="0" height="360" width="640" title="vimeo-player"></iframe>]]></content:encoded>
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Arie Altena</dc:creator>
+    <dc:rights>This information is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply.</dc:rights>
+    
+      <dc:subject>2022</dc:subject>
+    
+    
+      <dc:subject>biopic</dc:subject>
+    
+    
+      <dc:subject>cgi</dc:subject>
+    
+    
+      <dc:subject>musical</dc:subject>
+    
+    <dc:date>2022-06-10T15:05:00Z</dc:date>
+    <dc:type>Work</dc:type>
+  </item>
+
+
+  <item rdf:about="https://v2.nl/archive/works/residual-light-beneath-the-floating-land">
+    <title>Residual Light - Beneath the Floating Land</title>
+    <link>https://v2.nl/archive/works/residual-light-beneath-the-floating-land</link>
+    <description>Residual Light / Beneath the Floating Land (2022) is a film by Dachen Bao.</description>
+    <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/"><![CDATA[
+<p>The film <em>Residual Light / Beneath the Floating Land </em>is based on the daily landscape along the Chaotianmen Dock and riverbank in Chongqing, a city in Southwest China. The sight follows the lens as it wanders between the riverside and the navigation, and travels through different spaces and gatherings. At the same time, intertwined with these gazes at the landscape, the tourists and the locals, is a description of the landscape that spans time and space, narrated by a dialect voice-over, excerpted and adapted from the diary of a 19th-century British merchant-adventurer Mr. and Mrs. Archibald Little on their voyage through the Three Gorges into West China. Contemplating the relationship between the residues of history and modernities, the film traces an ambiguous zone that accommodates the complexity between history and reality through these fragmented landscapes and memories.</p>
+<p>&nbsp;</p>
+<iframe src="https://player.vimeo.com/video/747599033?h=22db6d3029" frameborder="0" height="360" width="640" title="vimeo-player"></iframe>]]></content:encoded>
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Arie Altena</dc:creator>
+    <dc:rights>This information is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply.</dc:rights>
+    
+      <dc:subject>2022</dc:subject>
+    
+    
+      <dc:subject>film</dc:subject>
+    
+    
+      <dc:subject>light</dc:subject>
+    
+    
+      <dc:subject>pzi</dc:subject>
+    
+    <dc:date>2022-06-14T07:25:00Z</dc:date>
+    <dc:type>Work</dc:type>
+  </item>
+
+
+  <item rdf:about="https://v2.nl/archive/works/rixt-van-t-oerd">
+    <title>Rixt van 't Oerd</title>
+    <link>https://v2.nl/archive/works/rixt-van-t-oerd</link>
+    <description>Rixt van 't Oerd (2022) is a film by Elysa-James Kooijman.</description>
+    <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/"><![CDATA[
+<p>The artist gives the Amelander folktale character witch Rixt van ’t Oerd a new voice through reflecting on their relationship to the island of Ameland, the role of mother figures and what it means to love and hate.</p>
+<p>––</p>
+<p>"When I arrive at the island it does not make me feel welcome. It doesn't try. It's unapologetic in its being. I feel anxious because I know I am not." <em>Rixt van 't Oerd </em>is a film that treads the line between fiction and documentary; an ode to my feelings, her feelings, and the beauty of the island.</p>
+<p>––</p>
+<p>This story is about a woman.  Her name is Rixt. She lives a secluded life on the beach and the dunes of the unmanned east part of the Wadden island Ameland, called ’t Oerd. She has to live off of what the land and the sea offer her; she fishes, catches birds and rabbits, and she picks berries. In turn she takes care of the land like any other person deeply connected to the island; she helps the young dunes find their footing, and makes sure the grass and the young birds have a chance to grow.  Her deep connection to the island grants her a power; the ability to control the seas and the weather. Whenever needed, she can conjure up a storm, which makes the ships at sea violently crash on the waves and wash up onto shore, broken. Whatever the sea carries onto the beach, she uses to survive.  No man has ever survived her storms.  <br />One day she births a son, Sjoerd, who is the only person that she loves, and he loves her back. She decides he is hers, and hers alone. Even though her love for him runs as deep as the seas and the black of night, she doesn’t tell him about her power; afraid he might judge and leave her. For years they live in peace, revolving around each other like the earth and the moon.  <br />Bu as Sjoerd grows older, he gets more and more restless. Unable to appreciate the deep connection to the island, he wants to leave. And one day, unbeknownst to Rixt, he does. Still ignorant and blind to his mother’s powers, he joins a ship as a sailor. That evening, Rixt conjures up storm.  <br />The next morning, when she goes out on to the beach to see what has washed up, she finds her deepest fear has come true. Her son, whom she loved with her whole heart and the depth of her soul, drowned. Her past shattered before her very eyes, her present infinite and heavy like a black hole, and her future ungraspable and forever faint, she cries out his name: SJOEEEEEEEEEEERD. This is a cry that would have ripped through every person’s soul who would have been able to hear it directly, and in a way it did. It pierced the very fabric of time and space, into herself and the very heart of the island.<br />Some say that if you listen carefully to the wind on Ameland, you can still hear her.</p>
+<p><a class="external-link" href="https://www.elysajames.com/rixt">https://www.elysajames.com/rixt</a></p>
+<iframe src="https://player.vimeo.com/video/747601051?h=5546a1fd90" frameborder="0" height="360" width="640" title="vimeo-player"></iframe>]]></content:encoded>
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Arie Altena</dc:creator>
+    <dc:rights>This information is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply.</dc:rights>
+    
+      <dc:subject>2022</dc:subject>
+    
+    
+      <dc:subject>family</dc:subject>
+    
+    
+      <dc:subject>film</dc:subject>
+    
+    <dc:date>2022-06-10T14:55:00Z</dc:date>
+    <dc:type>Work</dc:type>
+  </item>
+
+
+  <item rdf:about="https://v2.nl/archive/works/slices-of-dust">
+    <title>Slices of Dust</title>
+    <link>https://v2.nl/archive/works/slices-of-dust</link>
+    <description>Slices of Dust (2022) is a photography project by Alecio Ferrari.</description>
+    <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/"><![CDATA[
+<p>How do humans transform a natural environment into cultural material?<em> Slices of Dust</em> is a photographic research project about the culture around minerals and gemstones, its collection, conservation and trade in the Netherlands. At a time of ecological fragility, Ferrari understands this project as a collective process to rethink the relationships between humans and non-humans, ecosystems and their environments.</p>
+<iframe src="https://player.vimeo.com/video/747601684?h=586b875b43" frameborder="0" height="360" width="640" title="vimeo-player"></iframe>]]></content:encoded>
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Arie Altena</dc:creator>
+    <dc:rights>This information is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply.</dc:rights>
+    
+      <dc:subject>2022</dc:subject>
+    
+    
+      <dc:subject>gemstones</dc:subject>
+    
+    
+      <dc:subject>minerals</dc:subject>
+    
+    
+      <dc:subject>photography</dc:subject>
+    
+    
+      <dc:subject>photography project</dc:subject>
+    
+    <dc:date>2022-06-01T08:45:00Z</dc:date>
+    <dc:type>Work</dc:type>
+  </item>
+
+
+  <item rdf:about="https://v2.nl/archive/works/garden-title-pending">
+    <title>The Sky Has Never Been So Close</title>
+    <link>https://v2.nl/archive/works/garden-title-pending</link>
+    <description>The Sky Has Never Been So Close (2022) is a film by Geo Barcan.</description>
+    <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/"><![CDATA[
+<p>Being in her grandmother’s garden as a child made Geo realize that she did not identify with her human family, but rather with one formed of insects, flowers, herbs, worms and other non-human beings.</p>
+<p><em>The Sky Has Never Been So Close</em> is a look into the world of Geo Barcan’s childhood, her trauma and her time spent with persons of all sizes and species. She uses fiction as a way of making sense of this world. The film is an adaptation from a collection of autofictional stories where the filmmaker recounts events from the garden of her past. Mothers make love to mites, flowers eat humans and spores take over the house as the viewer enters a magical-realist world.</p>
+<iframe src="https://player.vimeo.com/video/747603106?h=337f633ceb" frameborder="0" height="360" width="640" title="vimeo-player"></iframe>]]></content:encoded>
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Arie Altena</dc:creator>
+    <dc:rights>This information is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply.</dc:rights>
+    
+      <dc:subject>2022</dc:subject>
+    
+    
+      <dc:subject>family</dc:subject>
+    
+    
+      <dc:subject>film</dc:subject>
+    
+    
+      <dc:subject>film installation</dc:subject>
+    
+    
+      <dc:subject>flowers</dc:subject>
+    
+    
+      <dc:subject>garden</dc:subject>
+    
+    
+      <dc:subject>insects</dc:subject>
+    
+    <dc:date>2022-06-10T15:20:00Z</dc:date>
+    <dc:type>Work</dc:type>
+  </item>
+
+
+  <item rdf:about="https://v2.nl/archive/works/on-a-small-island-in-a-big-island">
+    <title>on a small island, in a big island</title>
+    <link>https://v2.nl/archive/works/on-a-small-island-in-a-big-island</link>
+    <description>'on a small island, in a big island' (2022) is a short film by Kamali van Bochove.</description>
+    <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/"><![CDATA[
+<p><em>on a small island, in a big island</em> is a short film that poetically looks into a family history of coming and going. <br /><br />"During my grandfather's life, he amassed a comprehensive archive of film and slides that show a life lived in movement: from Suriname, to the Netherlands, to Curacao. Through glimpses and intimate details he's captured, I try to explore my own feelings regarding the inheritance of movement and longing."</p>
+<iframe src="https://player.vimeo.com/video/747604145?h=a1f0d13971" frameborder="0" height="360" width="640" title="vimeo-player"></iframe>]]></content:encoded>
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Arie Altena</dc:creator>
+    <dc:rights>This information is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply.</dc:rights>
+    
+      <dc:subject>2022</dc:subject>
+    
+    
+      <dc:subject>curacao</dc:subject>
+    
+    
+      <dc:subject>short film</dc:subject>
+    
+    
+      <dc:subject>surinam</dc:subject>
+    
+    <dc:date>2022-06-03T14:35:00Z</dc:date>
+    <dc:type>Work</dc:type>
+  </item>
+
+
+  <item rdf:about="https://v2.nl/archive/works/three-works">
+    <title>THIS IS US A story of those, them, me and we,  LOOK A LIKE LUC A LIKE, SMALL THINGS MATTER.</title>
+    <link>https://v2.nl/archive/works/three-works</link>
+    <description>For her graduation in 2022 Luca Tichelman made three works: THIS IS US A story of those, them, me and we, LOOK A LIKE / LUC A LIKE and SMALL THINGS MATTER.</description>
+    <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/"><![CDATA[
+<p>The three works by Luca Tichelman shown in the graduation exhibition in 2022 are: a short film entitled <em>THIS IS US A story of those, them, me and we </em>(16min), A digital triptych; <em>LOOK A LIKE / LUC A LIKE </em>(50 min) And a series of three miniature sculptures named <em>SMALL THINGS MATTER</em>. All three projects are related to topics such as how we as humans seek to connect with one another and therefore ourselves. The endless surge for how we are and what role our family members play in defining that.</p>
+<p>&nbsp;</p>
+<iframe src="https://player.vimeo.com/video/747670249?h=f20d04f9f9" frameborder="0" height="360" width="640" title="vimeo-player"></iframe>]]></content:encoded>
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Arie Altena</dc:creator>
+    <dc:rights>This information is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply.</dc:rights>
+    
+      <dc:subject>2022</dc:subject>
+    
+    
+      <dc:subject>film</dc:subject>
+    
+    
+      <dc:subject>graduation project</dc:subject>
+    
+    <dc:date>2022-06-03T14:45:00Z</dc:date>
+    <dc:type>Work</dc:type>
+  </item>
+
+
+  <item rdf:about="https://v2.nl/archive/works/untitled-single-channel-video">
+    <title>Will Thy Kingdoms Not Persist?</title>
+    <link>https://v2.nl/archive/works/untitled-single-channel-video</link>
+    <description>Will Thy Kingdoms Not Persist? is a film by Martin Osowski.</description>
+    <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/"><![CDATA[
+<p>A semi-diaristic film exploring the Canadian-born filmmaker's relationship to the place in rural Poland where his mother is from, and where his grandparents currently live. Meditative portrayals of this landscape are interspersed with narratives of regional history, Catholicism, and science fiction. The film looks at the totalizing yet fragile dualities of these narratives and how they reflect or become reflected in the natural and constructed elements of a landscape, as well as the filmmaker's own fragmented relationship to these worlds as a second generation immigrant.</p>
+<iframe src="https://player.vimeo.com/video/747671539?h=dfe17c77bc" frameborder="0" height="360" width="640" title="vimeo-player"></iframe>]]></content:encoded>
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Arie Altena</dc:creator>
+    <dc:rights>This information is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply.</dc:rights>
+    
+      <dc:subject>2022</dc:subject>
+    
+    
+      <dc:subject>cinema</dc:subject>
+    
+    
+      <dc:subject>film</dc:subject>
+    
+    
+      <dc:subject>film portrait</dc:subject>
+    
+    
+      <dc:subject>poland</dc:subject>
+    
+    <dc:date>2022-06-09T11:10:00Z</dc:date>
+    <dc:type>Work</dc:type>
+  </item>
+
+
+  <item rdf:about="https://v2.nl/archive/works/mountains-title-pending">
+    <title>Images without Worlds</title>
+    <link>https://v2.nl/archive/works/mountains-title-pending</link>
+    <description>Images without Worlds is a series of photos by Sacha Dufils.</description>
+    <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/"><![CDATA[
+<p>Sacha Dufils: “In my current visual practice I approach the landscape in two different ways. While traveling, I make photographs of the grand and majestic landscapes. From the moment covid-19 came around, I started building landscapes in miniature. These huge differences in scale of a landscape affect how we experience them. Simulated or real, the imagination is always part of this experience, and the image of it. I research the role of the lens in this context and I make use of modern day digital techniques as well as analogue photography. From a self-made panoramic camera to 3D printing. Photography, traditionally, caries the burden of proof but is also a tool for preserving things. This element of preservation also occurs in printing 3D models; models which can only be made by using lens-based media. So what happens when you capture this world with a lens, to then make a 3D print out of it, to then make another photograph of the 3D print? These photographs depict a world that’s not there and thus become images without worlds. In the context of the Anthropocene, the human epoch, the mountain becomes a monument and the lens has the ability to preserve it. What was previously grand, godlike or sublime, can now only ever be an image.”</p>
+<iframe src="https://player.vimeo.com/video/747672526?h=e64bbcb640" frameborder="0" height="360" width="640" title="vimeo-player"></iframe>]]></content:encoded>
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Arie Altena</dc:creator>
+    <dc:rights>This information is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply.</dc:rights>
+    
+      <dc:subject>2022</dc:subject>
+    
+    
+      <dc:subject>mountains</dc:subject>
+    
+    
+      <dc:subject>photographs</dc:subject>
+    
+    
+      <dc:subject>photography</dc:subject>
+    
+    
+      <dc:subject>romanticism</dc:subject>
+    
+    <dc:date>2022-06-10T15:30:00Z</dc:date>
+    <dc:type>Work</dc:type>
+  </item>
+
+
+
+
+
+</rdf:RDF>
